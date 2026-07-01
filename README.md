@@ -160,7 +160,7 @@ Step 22: After completing the dashboard in Power BI Desktop, the report was publ
 
 ||
 |---|
-|![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/Desktop1.png)
+|![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/images/Desktop1.png)
 
 - **Page 2**: Created line charts, Donut chart and Clustered Column chart  to represent Applicant demographics, credit score analysis, segment-wise loan amounts.
 
@@ -168,7 +168,7 @@ Step 22: After completing the dashboard in Power BI Desktop, the report was publ
 
 ||
 |---|
-|![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/Desktop2.png)
+|![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/images/Desktop2.png)
 
 - **Page 3**: Created line charts, ribbon chart to represent Financial risk metrics YOY Loan Amount Change, YOY default Loan Change, YTD Loan Amount by Credit Score bins and Marital Status and decomposition tree for Income Bracket classification.
 
@@ -176,7 +176,7 @@ Step 22: After completing the dashboard in Power BI Desktop, the report was publ
 
 ||
 |---|
-|![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/Desktop3.png)
+|![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/images/Desktop3.png)
 
 
 ## Tools & Technologies
