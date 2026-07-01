@@ -178,25 +178,6 @@ Step 22: After completing the dashboard in Power BI Desktop, the report was publ
 |---|
 |![Desktop](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/Desktop3.png)
 
-# Snapshot of Dashboard (Power BI Service)
-
-- ## **Page 1**:
-
-||
-|---|
-|![Dashboard](https://raw.githubusercontent.com/hetvi0410/PowerBI-LoanDefault-Dashboard/main/Image1.png)
-
-- ## **Page 2**:
-
-||
-|---|
-|![Dashboard](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/Image2.png)
-
-- ## **Page 3**:
-
-||
-|---|
-|![Dashboard](https://github.com/hetvi0410/PowerBI-LoanDefault-Dashboard/blob/main/Image3.png)
 
 ## Tools & Technologies
 
